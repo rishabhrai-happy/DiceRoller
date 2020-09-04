@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
         
     }
     private fun rollDice(){
+        Toast.makeText(this,"button clicked",Toast.LENGTH_SHORT).show()
 
     }
 }
