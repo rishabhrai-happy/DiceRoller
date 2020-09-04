@@ -16,9 +16,10 @@
         android:layout_gravity="center_horizontal"
         android:textSize="30sp"
         android:text="Hello World!"/>
-    <Button>
+    <Button
+        android:id="@+id/roll_button"
+        />
 
-    </Button>
 
 
 
